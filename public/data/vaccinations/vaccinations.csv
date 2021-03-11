@@ -1,8 +1,4 @@
-location,iso_code,date,total_vaccinations,people_vaccinated,people_fully_vaccinated,daily_vaccinations_raw,daily_vaccinations,total_vaccinations_per_hundred,people_vaccinated_per_hundred,people_fully_vaccinated_per_hundred,daily_vaccinations_per_million
-Albania,ALB,2021-01-10,0,0,,,,0,0,,
-Albania,ALB,2021-01-11,,,,,64,,,,22
-Albania,ALB,2021-01-12,128,128,,,64,0,0,,22
-Albania,ALB,2021-01-13,188,188,,60,63,0.01,0.01,,22
+222-01-13,188,188,,60,63,0.01,0.01,,22
 Albania,ALB,2021-01-14,266,266,,78,66,0.01,0.01,,23
 Albania,ALB,2021-01-15,308,308,,42,62,0.01,0.01,,22
 Albania,ALB,2021-01-16,369,369,,61,62,0.01,0.01,,22
